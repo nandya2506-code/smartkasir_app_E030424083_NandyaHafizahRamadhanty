@@ -2,8 +2,6 @@
 import 'package:flutter/material.dart';
 // Mengimpor pustaka pemformat angka dan mata uang
 import 'package:flutter/services.dart';
-import 'package:intl/intl.dart';
-// Mengimpor model data dan database helper
 import '../models/produk.dart';
 import '../helpers/database_helper.dart';
 
